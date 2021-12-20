@@ -1,5 +1,5 @@
 # Dorkie
-A tool for building search queries for Twitter and Google based off keyword list
+A simple script for building search queries for Twitter and Google based off keyword list
 
 ## Usage
   - Populate keywords.txt with a list of search queries you want
